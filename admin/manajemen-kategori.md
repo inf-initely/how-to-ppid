@@ -4,10 +4,10 @@
 
 1. Klik tombol **+ Buat Baru**
 ![tombol-buat-baru](../assets/Screenshot%202021-10-12%20153733.png)
-1. Isi informasi kategori sesuai dengan arahan pada halaman tambah kategori
+1. Informasi terkait dengan kategori dimasukkan:
 ![halaman-tambah-kategori](../assets/Screenshot%202021-10-12%20153844.png)
 
-## Mengisi Informasi Kategori
+## Pengisian Informasi Kategori
 
 Ada 3 informasi yang perlu dimasukkan terkait dengan kategori:
 - Jenis informasi

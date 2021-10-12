@@ -1,10 +1,10 @@
 # Melakukan Permohonan Informasi
 
-Akses permohonan Informasi tersedia di setiap halaman pada bagian PPID di masing-masing situs profil desa.
+Akses permohonan Informasi tersedia di setiap halaman PPID, baik pada halaman utama, informasi, maupun dasar hukum.
 
 Untuk melakukan permohonan informasi:
 
-1. Pastikan anda berada pada halaman PPID, baik itu pada halaman utama PPID maupun halaman informasi PPID.
+1. Pastikan anda berada pada salah satu halaman PPID.
 2. Lakukan scroll kebawah menuju ke dasar halaman hingga anda menemukan elemen berikut:
    ![elemen-permohonan-informasi](../assets/Screenshot%202021-10-12%20104157.png)
 3. Klik tombol "**Ajukan Permohonan Informasi**":

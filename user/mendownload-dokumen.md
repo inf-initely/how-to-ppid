@@ -2,7 +2,7 @@
 
 Akses unduh dokumen tersedia baik pada halaman utama PPID maupun halaman informasi PPID.
 
-dokumen yang tertera pada halaman utama PPID adalah dokumen terbaru yang dikeluarkan oleh PPID desa diurutkan berdasarkan tanggal. 
+Dokumen yang tertera pada halaman utama PPID adalah dokumen terbaru yang dikeluarkan oleh PPID desa diurutkan berdasarkan tanggal. 
 Pada halaman ini, daftar dokumen yang tersedia terbatas (biasanya dibatasi 5 atau 10 dokumen terbaru):
 
 ![informasi-publik-terbaru](../assets/Screenshot%202021-10-12%20112222.png)

@@ -4,10 +4,10 @@
 
 1. Klik tombol **+ Buat Baru**
 ![tombol-buat-baru](../assets/Screenshot%202021-10-12%20141019.png)
-2. Isi informasi dokumen sesuai dengan arahan pada halaman tambah dokumen
+2. Informasi terkait dengan dokumen dimasukkan:
 ![halaman-tambah-dokumen](../assets/Screenshot%202021-10-12%20141255.png)
 
-## Mengisi Informasi Dokumen
+## Pengisian Informasi Dokumen
 
 Ada 5 informasi yang perlu dimasukkan terkait dengan dokumen:
 - Jenis informasi dokumen

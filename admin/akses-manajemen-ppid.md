@@ -1,6 +1,6 @@
 # Mengakses Manajemen PPID
 
-Pengaksesan manajemen PPID desa, dibutuhkan sebuah akun administrator yang memiliki akses manajemen Web Profil Desa.
+Akses manajemen PPID desa membutuhkan sebuah akun administrator yang memiliki akses manajemen Web Profil Desa.
 
 Pada halaman administrator Profil Desa, silahkan klik pada menu PPID di rincian menu sidebar:
 
@@ -10,12 +10,12 @@ Terdapat dua manajemen pada PPID, manajemen file dan manajemen kategori.
 
 Klik pada salah satu opsi "**File**" atau "**Dokumen**" untuk membuka halaman manajemen PPID tergantung pada opsi yang dipilih.
 
-Manajemen file untuk digunakan untuk mengatur file-file yang disediakan untuk publik. 
+Manajemen file digunakan untuk mengatur file-file yang akan diterbitkan ke publik. 
 
 ![ppid-manajemen-file](../assets/Screenshot%202021-10-12%20140408.png)
 
-Sedangkan manajemen kategori digunakan untuk mengatur kategori file pada setiap jenis informasi.
+Sedangkan manajemen kategori digunakan untuk mengatur kategori pada setiap jenis informasi.
 
 ![ppid-manajemen-kategori](../assets/Screenshot%202021-10-12%20140523.png)
 
-Contohnya, untuk menambah sebuah kategori baru pada jenis Informasi Publik secara Berkala, maka kita perlu masuk ke manajemen kategori. Sedangkan, untuk menambah file, tentunya melalui manajemen file.
+Contohnya, untuk menambah sebuah kategori baru pada jenis Informasi Publik secara Berkala,  kita perlu masuk ke manajemen kategori. Sedangkan, untuk menambah file, tentunya melalui manajemen file.
